@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+Manifest.toml
+docs/Manifest.toml
