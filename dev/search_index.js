@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#TestModule","page":"-","title":"TestModule","text":"","category":"section"},{"location":"#Main-methods","page":"-","title":"Main methods","text":"","category":"section"},{"location":"","page":"-","title":"-","text":"fit","category":"page"},{"location":"#TestModule.fit","page":"-","title":"TestModule.fit","text":"fit(model, data, params) Fits the model to the data. \n\n\n\n\n\n","category":"function"},{"location":"","page":"-","title":"-","text":"infer","category":"page"},{"location":"#TestModule.infer","page":"-","title":"TestModule.infer","text":"infer(model, traindata, testdata, params) Infers new data with the pre-trained model.\n\n\n\n\n\n","category":"function"}]
+}
