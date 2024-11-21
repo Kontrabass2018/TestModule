@@ -1,5 +1,7 @@
 module TestModule
 
+using Flux
+
 export fit, infer
 
 
